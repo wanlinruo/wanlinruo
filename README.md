@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanlinruo&show_icons=true&theme=highcontrast)](https://github.com/wanlinruo)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanlinruo&show_icons=true)](https://github.com/wanlinruo)
 
 ### Hi there 👋
 
